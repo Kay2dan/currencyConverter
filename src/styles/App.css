@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+select {
+   display : inline-block;
+}
+
+.selectContainer{
+   display : inline-block;
+   width : auto;
+}
+
+.gray {
+   background-color : rgba(211,211,211,1);
+}
